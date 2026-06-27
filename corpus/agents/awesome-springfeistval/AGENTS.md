@@ -13,9 +13,9 @@ This repository combines an awesome-list style Spring Festival project catalog w
 
 ## Environment
 
-- `VITE_GLM_API_KEY` is required by the AI assistant.
+- `ARK_API_KEY`, `ARK_BASE_URL`, and `ARK_CHAT_MODEL` are required by the server-side AI assistant route.
 
 ## Editing Rules
 
 - Keep the root README curated as an awesome list; app implementation changes belong under `cny-ai-web/`.
-- Avoid committing real GLM or other model provider keys.
+- Avoid committing real Ark or other model provider keys.

@@ -51,6 +51,6 @@ Run these from `maichong/` for the Flutter reference app:
 
 ## Security & Configuration Tips
 - Environment variables live in local `.env` files or deployment settings; do not commit secrets.
-- Root Vite app uses `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`, and `VITE_AI_CHAT_ENDPOINT`; the Vercel API route uses server-side `ARK_API_KEY`, `ARK_BASE_URL`, and `ARK_CHAT_MODEL`.
+- Root Vite app uses public Supabase variables and a public chat endpoint variable; the Vercel API route uses server-side `ARK_API_KEY`, `ARK_BASE_URL`, and `ARK_CHAT_MODEL`.
 - Flutter reference docs mention `SUPABASE_URL`, `SUPABASE_ANON_KEY`, `DEEPSEEK_API_KEY`, and `OPENAI_API_KEY`.
 - Keep `pubspec.yaml` and `assets/` in sync when adding Flutter files.

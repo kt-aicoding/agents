@@ -56,7 +56,7 @@ Two visual themes exist:
 - **xr-frame-概述.md**: xr-frame features, limitations, version requirements, demo links
 - **Vant-Weapp-快速上手.md**: Installation (npm), TypeScript setup, component list, usage examples
 - **讯飞TTS-WebSocket-API.md**: Full API spec — auth, parameters, request/response, error codes
-- **智谱GLM-4-API文档.md**: GLM-4 models, sync/stream/async API, function call, HTTP examples
+- **火山方舟-Ark-API文档.md**: Ark chat/vision model configuration, sync/stream API, function call, HTTP examples
 
 ## Tech Stack (Confirmed)
 
@@ -66,7 +66,7 @@ UI组件库：Vant Weapp v1.11.7
 状态管理：MobX miniprogram
 AR渲染：  xr-frame（微信官方）
 后端：    CloudBase 微信云开发（NoSQL文档数据库 + 云函数 + 云存储）
-LLM：    智谱 GLM-4-Flash（日常对话）/ GLM-4（复杂查询）
+LLM：    火山方舟 Ark CodingPlan（日常对话与复杂查询）
 TTS：    讯飞在线语音合成 WebSocket API
 支付：    微信支付（CloudBase 云调用）
 ```

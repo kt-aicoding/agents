@@ -31,7 +31,7 @@ Required for normal app/database behavior:
 
 Optional:
 
-- `GLM_API_KEY` enables ZhipuAI GLM-generated lifecycle health-check tasks.
+- `ARK_API_KEY` enables Volcengine Ark-generated lifecycle health-check tasks.
 - `CRON_SECRET` protects `/api/cron/lifecycle-check` in production.
 
 ## Deployment

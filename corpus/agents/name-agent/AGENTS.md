@@ -26,5 +26,5 @@ Use `npm run test` as the quick pre-change gate; run `npm run build` before depl
 
 - Production URL: `https://name.rxcloud.group`
 - Platform: Vercel
-- Required secret: `ZHIPU_API_KEY`
+- Required secrets: `ARK_API_KEY`, `ARK_BASE_URL`, `ARK_CHAT_MODEL`
 - Optional public variables: `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`
