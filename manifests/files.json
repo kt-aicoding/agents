@@ -1,0 +1,2003 @@
+{
+  "generated": "2026-06-27",
+  "source_root": "/Users/kevinten/projects",
+  "files": [
+    {
+      "kind": "agents",
+      "source_path": ".github/AGENTS.md",
+      "archive_path": "corpus/agents/_dot_github/AGENTS.md",
+      "lines": 7,
+      "chars": 373,
+      "sha256": "f6db6007e2659557c04fdd33600eae551718fbddde9ae91593f403f1c733c6d3",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "2077-daily/AGENTS.md",
+      "archive_path": "corpus/agents/2077-daily/AGENTS.md",
+      "lines": 5,
+      "chars": 325,
+      "sha256": "e3447d84251880fb34cfae09131cb4c57471529bbfe60976a3245793cf621627",
+      "headings": [
+        "# This is NOT the Next.js you know"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "3d-agent/AGENTS.md",
+      "archive_path": "corpus/agents/3d-agent/AGENTS.md",
+      "lines": 28,
+      "chars": 944,
+      "sha256": "eb5d23cc6bb751495400d250f95f1490648955f477f23d62b930701d59446433",
+      "headings": [
+        "# 3D Agent Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Deployment Notes"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "Aditum/AGENTS.md",
+      "archive_path": "corpus/agents/Aditum/AGENTS.md",
+      "lines": 6,
+      "chars": 310,
+      "sha256": "3b5550c784d9ab441bd97ebe808d99b2b0d930c3e993ddd90ab3bbe54826e7ab",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "AGENTS.md",
+      "archive_path": "corpus/agents/AGENTS.md",
+      "lines": 44,
+      "chars": 3853,
+      "sha256": "c3aea6490de6ccdee1bbc745c71fb2a3808e8d427894b4ba7e33975b5e3c44e3",
+      "headings": [
+        "# Repository Working Guide",
+        "## General Rules",
+        "## Workspace Inventory Materials",
+        "## Common Project Shapes",
+        "## Verification Preferences"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ai-agent-agentscope-codereview/AGENTS.md",
+      "archive_path": "corpus/agents/ai-agent-agentscope-codereview/AGENTS.md",
+      "lines": 6,
+      "chars": 264,
+      "sha256": "8924fd72e6ad9b65d8619e9dd6b7b0c88ab3b92b47871eef6174295b46240370",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ai-agent-agentscope-deepresearch/AGENTS.md",
+      "archive_path": "corpus/agents/ai-agent-agentscope-deepresearch/AGENTS.md",
+      "lines": 51,
+      "chars": 1872,
+      "sha256": "d8854be7c20ad7c5e2a9264a5f93d32c16ec6504b60db331dca4b8aa812dd61c",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Structure",
+        "## Commands",
+        "## Environment",
+        "## Deployment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ai-agent-agentscope/AGENTS.md",
+      "archive_path": "corpus/agents/ai-agent-agentscope/AGENTS.md",
+      "lines": 23,
+      "chars": 762,
+      "sha256": "0ee404c92a2949f6ded06bd64ec9f73fcdf8ae93d3c71a746d34b0a4c8376bed",
+      "headings": [
+        "# Eino Agent Platform Working Guide",
+        "## Scope",
+        "## Validation"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ai-chat-chrome/AGENTS.md",
+      "archive_path": "corpus/agents/ai-chat-chrome/AGENTS.md",
+      "lines": 41,
+      "chars": 1552,
+      "sha256": "ef6e6c18d101e2f560641e00048675b4a20e0bb346fb13d93f8cba119ccacbd3",
+      "headings": [
+        "# Repository Notes",
+        "## Structure",
+        "## Working Rules",
+        "## Validation"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ai-chat-chrome/hotel-compare/web/AGENTS.md",
+      "archive_path": "corpus/agents/ai-chat-chrome/hotel-compare/web/AGENTS.md",
+      "lines": 5,
+      "chars": 325,
+      "sha256": "e3447d84251880fb34cfae09131cb4c57471529bbfe60976a3245793cf621627",
+      "headings": [
+        "# This is NOT the Next.js you know"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ai-chat-cr-chrome/AGENTS.md",
+      "archive_path": "corpus/agents/ai-chat-cr-chrome/AGENTS.md",
+      "lines": 6,
+      "chars": 255,
+      "sha256": "41266588209102dd710e88a2b811cc01c1547cb5f14b7fea6f0a029c83df68ab",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ai-coding-mcp/AGENTS.md",
+      "archive_path": "corpus/agents/ai-coding-mcp/AGENTS.md",
+      "lines": 6,
+      "chars": 232,
+      "sha256": "26ef94dd60e287f4d098428d681ad4ba92e371b2dc411d68a044b4adc6be4501",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ai-dify-dsl/AGENTS.md",
+      "archive_path": "corpus/agents/ai-dify-dsl/AGENTS.md",
+      "lines": 6,
+      "chars": 249,
+      "sha256": "2ac81da4bcb0519e20cf4e927725c75f28ab64cad96c80535440ec3c3662fc8c",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ai-hackthon/agentverse/AGENTS.md",
+      "archive_path": "corpus/agents/ai-hackthon/agentverse/AGENTS.md",
+      "lines": 5,
+      "chars": 325,
+      "sha256": "e3447d84251880fb34cfae09131cb4c57471529bbfe60976a3245793cf621627",
+      "headings": [
+        "# This is NOT the Next.js you know"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ai-home-care-platform/AGENTS.md",
+      "archive_path": "corpus/agents/ai-home-care-platform/AGENTS.md",
+      "lines": 5,
+      "chars": 325,
+      "sha256": "e3447d84251880fb34cfae09131cb4c57471529bbfe60976a3245793cf621627",
+      "headings": [
+        "# This is NOT the Next.js you know"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ai-ops-script/AGENTS.md",
+      "archive_path": "corpus/agents/ai-ops-script/AGENTS.md",
+      "lines": 6,
+      "chars": 244,
+      "sha256": "511429d562d89d29ab2412c0bc28ae79186c9d2e9726f2e5f96f365ab2a16d36",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "AI/AGENTS.md",
+      "archive_path": "corpus/agents/AI/AGENTS.md",
+      "lines": 33,
+      "chars": 1175,
+      "sha256": "0ef6f55acb573ca5a65bdfc6aa4b938f360439643c1d457aa8d677541900a4b8",
+      "headings": [
+        "# AI / Ring Working Guide",
+        "## Scope",
+        "## Validation"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "Air/AGENTS.md",
+      "archive_path": "corpus/agents/Air/AGENTS.md",
+      "lines": 6,
+      "chars": 272,
+      "sha256": "ffe195517fde5ae738cc2c6190b11f2254b9a404261fed217689cda4197421d2",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "anycap/anycap/AGENTS.md",
+      "archive_path": "corpus/agents/anycap/anycap/AGENTS.md",
+      "lines": 5,
+      "chars": 205,
+      "sha256": "6e3a6330e120c29e4ee8564b3fa5ebe9bfb172dcdd785ba923bfd616654719a2",
+      "headings": [
+        "# AnyCap"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "argue-agent/AGENTS.md",
+      "archive_path": "corpus/agents/argue-agent/AGENTS.md",
+      "lines": 27,
+      "chars": 1012,
+      "sha256": "1932ef29121a45cbca257fe190ee4d334ec2b16e2fd29f11550bc4eb1e704e9e",
+      "headings": [
+        "# Argue Agent Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Deployment Notes"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "awesome-ai-ideas/AGENTS.md",
+      "archive_path": "corpus/agents/awesome-ai-ideas/AGENTS.md",
+      "lines": 29,
+      "chars": 989,
+      "sha256": "fbf495997d7cbea4100874e1aac6f2af2e11bdfd71700beeb626936f368b34eb",
+      "headings": [
+        "# Awesome AI Ideas Working Guide",
+        "## Scope",
+        "## Validation",
+        "## Local Notes"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "awesome-ai-ideas/site/AGENTS.md",
+      "archive_path": "corpus/agents/awesome-ai-ideas/site/AGENTS.md",
+      "lines": 5,
+      "chars": 325,
+      "sha256": "e3447d84251880fb34cfae09131cb4c57471529bbfe60976a3245793cf621627",
+      "headings": [
+        "# This is NOT the Next.js you know"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "awesome-springfeistval/AGENTS.md",
+      "archive_path": "corpus/agents/awesome-springfeistval/AGENTS.md",
+      "lines": 21,
+      "chars": 689,
+      "sha256": "21672ee76f618ac029a8eb0acbe6753f6e7f2514fcd0b0c4fae6370f556bda9f",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Environment",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "bci-research/web/AGENTS.md",
+      "archive_path": "corpus/agents/bci-research/web/AGENTS.md",
+      "lines": 5,
+      "chars": 325,
+      "sha256": "e3447d84251880fb34cfae09131cb4c57471529bbfe60976a3245793cf621627",
+      "headings": [
+        "# This is NOT the Next.js you know"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "books/Compiling-the-Dao/AGENTS.md",
+      "archive_path": "corpus/agents/books/Compiling-the-Dao/AGENTS.md",
+      "lines": 18,
+      "chars": 769,
+      "sha256": "ecdf16b7fe51a617e795ae426767f040c1c3be46a383a8f3d4f7d0f081886304",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "brag/ai_claude_code/.claude/commands/monitoring/AGENTS.md",
+      "archive_path": "corpus/agents/brag/ai_claude_code/_dot_claude/commands/monitoring/AGENTS.md",
+      "lines": 44,
+      "chars": 1217,
+      "sha256": "f4799ec0e303d3bf7250ccc3ed3fe52405d4cd53de84a1eeabad3f61528f5bb5",
+      "headings": [
+        "# List Active Patterns",
+        "## 🎯 Key Principle",
+        "## MCP Tool Usage in Claude Code",
+        "## Parameters",
+        "## Description"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "brag/ai_cli/AGENTS.md",
+      "archive_path": "corpus/agents/brag/ai_cli/AGENTS.md",
+      "lines": 177,
+      "chars": 5322,
+      "sha256": "39c13e39af64e4a4b56e31302d6ac15a3e79966516ca4e9aececb750e944ebab",
+      "headings": [
+        "# AI CLI Project - Agent Guidelines",
+        "## Project Overview",
+        "## Build/Test Commands",
+        "### Main Commands",
+        "# Development"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "brag/ai_codex/AGENTS.md",
+      "archive_path": "corpus/agents/brag/ai_codex/AGENTS.md",
+      "lines": 3,
+      "chars": 185,
+      "sha256": "b5ef596bbceed3d0c4cfc75a9d51241dbfbe47d2e298b406ff2927990c8821f2",
+      "headings": [
+        "# Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "brag/ai_tools/AGENTS.md",
+      "archive_path": "corpus/agents/brag/ai_tools/AGENTS.md",
+      "lines": 37,
+      "chars": 2100,
+      "sha256": "1651fb29258eebab7e65dafc579473fc02bd7fedf307ce5eee2e5048a0db3a6f",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Structure & Module Organization",
+        "## Build, Test, and Development Commands",
+        "## Coding Style & Naming Conventions",
+        "## Testing Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "brag/ai_tools/ai-tools/AGENTS.md",
+      "archive_path": "corpus/agents/brag/ai_tools/ai-tools/AGENTS.md",
+      "lines": 40,
+      "chars": 2038,
+      "sha256": "e7fbb5880adaa9e0fd322a9d182b527b1619e4db75a38e6e8cadb159325fa989",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Structure",
+        "## Commands",
+        "## Deployment",
+        "## Environment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "capa-java-aws/AGENTS.md",
+      "archive_path": "corpus/agents/capa-java-aws/AGENTS.md",
+      "lines": 7,
+      "chars": 293,
+      "sha256": "ee3ad536197125f50788c11c1a94cd527c3c0527f084e8de25a25d9c62f802d4",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "capa-java/AGENTS.md",
+      "archive_path": "corpus/agents/capa-java/AGENTS.md",
+      "lines": 7,
+      "chars": 296,
+      "sha256": "144583488f1656276ea3297b54116ffd41da277e2d6cb6f379f63476b1c407b5",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "capa/AGENTS.md",
+      "archive_path": "corpus/agents/capa/AGENTS.md",
+      "lines": 31,
+      "chars": 1201,
+      "sha256": "94b905b1d473b1a40a7098469e50a30048c0524b2a4731d4235364d027838cf4",
+      "headings": [
+        "# Capa Runtime Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Environment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "cloud-runtimes-golang/AGENTS.md",
+      "archive_path": "corpus/agents/cloud-runtimes-golang/AGENTS.md",
+      "lines": 7,
+      "chars": 287,
+      "sha256": "c3381f5c1380b0d99b49798af4b2c12266bdaeb8959b2e88a0031ca40bb4308c",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "cloud-runtimes-jvm/AGENTS.md",
+      "archive_path": "corpus/agents/cloud-runtimes-jvm/AGENTS.md",
+      "lines": 7,
+      "chars": 291,
+      "sha256": "d970a15aac1f76b56cc37cd4001effd4362e4dd7059a809001929e7fa23a8807",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "cloud-runtimes-python/AGENTS.md",
+      "archive_path": "corpus/agents/cloud-runtimes-python/AGENTS.md",
+      "lines": 7,
+      "chars": 302,
+      "sha256": "1c35633edd6b3f40d158080287bfeea0dbbe7ba50739bc407dedd233ee359897",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "docs/AGENTS.md",
+      "archive_path": "corpus/agents/docs/AGENTS.md",
+      "lines": 6,
+      "chars": 241,
+      "sha256": "813898ea46ead02f357c9b8b7e5c096eeb4287903fd39d0da911fb723ee29720",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "dog-agent/AGENTS.md",
+      "archive_path": "corpus/agents/dog-agent/AGENTS.md",
+      "lines": 35,
+      "chars": 1095,
+      "sha256": "bcab3bc77e7081920c3b11d1bb6573e0ef677cacbe2b35eace02b0d09f56ac0e",
+      "headings": [
+        "# PawPal Dog Agent Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Environment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "english-agent/AGENTS.md",
+      "archive_path": "corpus/agents/english-agent/AGENTS.md",
+      "lines": 23,
+      "chars": 1068,
+      "sha256": "b6a872a354c1d930f26b5f1bc415ec3e63c7cccc0df84521a336fa3525327923",
+      "headings": [
+        "# Repository Notes",
+        "## Working Rules",
+        "## Validation"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "fish-agent/AGENTS.md",
+      "archive_path": "corpus/agents/fish-agent/AGENTS.md",
+      "lines": 23,
+      "chars": 1013,
+      "sha256": "5921c78b4512e4493e3f1c681f405fd5c19a85c708b76e7fb20505d6fae7206b",
+      "headings": [
+        "# Repository Notes",
+        "## Working Rules",
+        "## Validation"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "harness/AGENTS.md",
+      "archive_path": "corpus/agents/harness/AGENTS.md",
+      "lines": 31,
+      "chars": 1047,
+      "sha256": "9d5144ef4afc06054c46bac3f0a7c004beacd10b99238b22c7c9f7f663320e95",
+      "headings": [
+        "# Harness Working Guide",
+        "## Scope",
+        "## Validation"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "harness/mini-harness/AGENTS.md",
+      "archive_path": "corpus/agents/harness/mini-harness/AGENTS.md",
+      "lines": 6,
+      "chars": 237,
+      "sha256": "428a0f3785aa361fc6d185e752eda5fc1515e6a054d7bdd6520a08ce26327f07",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "health-agent/AGENTS.md",
+      "archive_path": "corpus/agents/health-agent/AGENTS.md",
+      "lines": 25,
+      "chars": 1246,
+      "sha256": "e1600190cd571fb779327a9e31a19d9c0360715d010c83f623ef51b459f46a25",
+      "headings": [
+        "# Repository Notes",
+        "## Working Rules",
+        "## Validation"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/.github/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/_dot_github/AGENTS.md",
+      "lines": 6,
+      "chars": 259,
+      "sha256": "e4df1cb9a3189e83ca56fd2ad9056045928c6a1e5293a5e941052685f12f0109",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/Chinese-iKUN/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/Chinese-iKUN/AGENTS.md",
+      "lines": 6,
+      "chars": 272,
+      "sha256": "82fb3818d9df1eb6c644313526c77ac1fb3dd3d9c05eb06c0713d53568c7ab43",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/CXK_IKUN_Dataset/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/CXK_IKUN_Dataset/AGENTS.md",
+      "lines": 6,
+      "chars": 227,
+      "sha256": "ccf31019936d527a4bfaababbe970760542edaf063d8df03de86cb4de04faed7",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-2.5B/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-2.5B/AGENTS.md",
+      "lines": 6,
+      "chars": 272,
+      "sha256": "f512c07a1e29037ceb8fcfe362a1feede88a1b012c1711d1670a39bad23890bf",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-basics/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-basics/AGENTS.md",
+      "lines": 6,
+      "chars": 250,
+      "sha256": "69181d003f0ed6e7194e2360256b0b4759bb77460d4bda4b00d4314429c0e270",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-call/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-call/AGENTS.md",
+      "lines": 21,
+      "chars": 825,
+      "sha256": "66d0a64b6e51d4b7070603c04403cb811e70fcc8f0fd4879e5bd98f407359793",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Environment",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-deploy/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-deploy/AGENTS.md",
+      "lines": 6,
+      "chars": 252,
+      "sha256": "fc138d2d4d403d276e10aca9a117082db1a987e2f16cf4c21a87d7c43bcc9ca8",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-Distill/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-Distill/AGENTS.md",
+      "lines": 6,
+      "chars": 246,
+      "sha256": "e61227b8bc7740f8084676e82abc0d440e9e9a64c0df1ee2c39b6f6cc82b15d4",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-DPO/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-DPO/AGENTS.md",
+      "lines": 6,
+      "chars": 234,
+      "sha256": "b003d6f7263f9560c23c2a87d3e0a09c4dc90522f80068d16a428a34a5d4fcad",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-GRPO/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-GRPO/AGENTS.md",
+      "lines": 6,
+      "chars": 252,
+      "sha256": "cb5553be4b7e4477514977de3d4f9edc7758118e5a45a74cbcab473919d93dbe",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-MoE/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-MoE/AGENTS.md",
+      "lines": 6,
+      "chars": 245,
+      "sha256": "9480cfcc7dc02a3fc397380e48c8214fd0c4b2c7939ac431ba3eb399c91676a3",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-mouse/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-mouse/AGENTS.md",
+      "lines": 6,
+      "chars": 231,
+      "sha256": "cea90e0e3d7c791efffc2cd2ad58c47d5ed88b705880ab4d60a9055318b65828",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-pretrain/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-pretrain/AGENTS.md",
+      "lines": 6,
+      "chars": 257,
+      "sha256": "d459a604a898df1528324c100102b8591f2cad14d9d758dea537874ab146f73e",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-Reason/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-Reason/AGENTS.md",
+      "lines": 6,
+      "chars": 232,
+      "sha256": "1070ae97bcd1a7e17e6888491cf5fe4a56a4ab0296ec25ab82787e0d46d26600",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-tokenizer/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-tokenizer/AGENTS.md",
+      "lines": 6,
+      "chars": 238,
+      "sha256": "216f21be7b51569c7864620f8f7b1673aabb6ebceccaa3c6f4244106a9dc7afc",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-ui/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-ui/AGENTS.md",
+      "lines": 18,
+      "chars": 628,
+      "sha256": "ad85bc61c243fe018bde855a2ec773ad19c9ad17e8186cb12bff2c77320a526b",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun-V/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun-V/AGENTS.md",
+      "lines": 6,
+      "chars": 240,
+      "sha256": "c42843b61f5eb241f02b58bfc02d142808a6f19286fe5f6a145a80614bf966d2",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ikun/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ikun/AGENTS.md",
+      "lines": 7,
+      "chars": 301,
+      "sha256": "fb2a6d870ca3c37b8dae80fd3d1473a5f8e749577204f2ce34e093d76373de40",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/ji/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/ji/AGENTS.md",
+      "lines": 17,
+      "chars": 643,
+      "sha256": "71423ea12ed30f8bacca6d35390231e2d56f20f02e494630d3f96e2fbdc7cae4",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ikun/Jilehe/AGENTS.md",
+      "archive_path": "corpus/agents/ikun/Jilehe/AGENTS.md",
+      "lines": 6,
+      "chars": 221,
+      "sha256": "0d63f04ac7bfd4fd380f4035676a2f65b091d89ea710fc9abcc3979b6fcd9cca",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ios/embodied-agent/AGENTS.md",
+      "archive_path": "corpus/agents/ios/embodied-agent/AGENTS.md",
+      "lines": 6,
+      "chars": 216,
+      "sha256": "fc586b783d49f388578d014ed6cddfa4b3e49b9c28df49cb3901e91840bf8727",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ios/unitree_mujoco/AGENTS.md",
+      "archive_path": "corpus/agents/ios/unitree_mujoco/AGENTS.md",
+      "lines": 6,
+      "chars": 276,
+      "sha256": "647ed92aa27984a2eb43b7a5511f5f365d5920094327d180a55ad6600da089ac",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "ios/unitree_sdk2_python/AGENTS.md",
+      "archive_path": "corpus/agents/ios/unitree_sdk2_python/AGENTS.md",
+      "lines": 6,
+      "chars": 281,
+      "sha256": "54864658a74b87c57e2e98cae26994ef8bb702aef303aa192602a531c371f187",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "kevinten10.github.io/next-portfolio/AGENTS.md",
+      "archive_path": "corpus/agents/kevinten10.github.io/next-portfolio/AGENTS.md",
+      "lines": 5,
+      "chars": 325,
+      "sha256": "e3447d84251880fb34cfae09131cb4c57471529bbfe60976a3245793cf621627",
+      "headings": [
+        "# This is NOT the Next.js you know"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "kimi/Kimi_Agent_二手智能定价/app/AGENTS.md",
+      "archive_path": "corpus/agents/kimi/Kimi_Agent_二手智能定价/app/AGENTS.md",
+      "lines": 33,
+      "chars": 1047,
+      "sha256": "deb8bd1a4593f6fb91879f310f8ddee30a867bb486b81bedbd577e4269ad91b7",
+      "headings": [
+        "# AI Secondhand Pricing Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Environment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "langchain/ai-agent-langgraph/AGENTS.md",
+      "archive_path": "corpus/agents/langchain/ai-agent-langgraph/AGENTS.md",
+      "lines": 33,
+      "chars": 1223,
+      "sha256": "e235261bbf1d607f2e742f91842ca4f39c5662357f02c2a05680edbaffcccf48",
+      "headings": [
+        "# AI Agent LangGraph Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Environment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "law-agent/AGENTS.md",
+      "archive_path": "corpus/agents/law-agent/AGENTS.md",
+      "lines": 27,
+      "chars": 1097,
+      "sha256": "04c6b1bd6890d6dae53baa81de4bd9084cf217e9580297356e63d1ba23ba29b4",
+      "headings": [
+        "# Law Agent Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Deployment Notes"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "leetcode/AGENTS.md",
+      "archive_path": "corpus/agents/leetcode/AGENTS.md",
+      "lines": 18,
+      "chars": 1187,
+      "sha256": "38b17ebe2868480048d86ea55344bea126223c11bfff0ad1fb9f126502e17730",
+      "headings": [
+        "# Repository Notes",
+        "## Working Rules",
+        "## Checks"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "Life/AGENTS.md",
+      "archive_path": "corpus/agents/Life/AGENTS.md",
+      "lines": 6,
+      "chars": 268,
+      "sha256": "384fa500a8f6c67fcdb7ebd0b8034a8ee62ddb902f6f7797c5240dc598712a6d",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "Lifecat/AGENTS.md",
+      "archive_path": "corpus/agents/Lifecat/AGENTS.md",
+      "lines": 30,
+      "chars": 1430,
+      "sha256": "5811fb5bf50ae35453c12e9fe1c28b7a91739deb35c6b9b178f11b798119d48d",
+      "headings": [
+        "# Lifecat Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Environment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "maichong/AGENTS.md",
+      "archive_path": "corpus/agents/maichong/AGENTS.md",
+      "lines": 56,
+      "chars": 3200,
+      "sha256": "fc568f591b1dc8e9151991ead4cff45df9991cafc829c324dfd264fa9a213780",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Structure & Module Organization",
+        "## Build, Test, and Development Commands",
+        "## Coding Style & Naming Conventions",
+        "## Testing Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "mcp-3d-gen/AGENTS.md",
+      "archive_path": "corpus/agents/mcp-3d-gen/AGENTS.md",
+      "lines": 6,
+      "chars": 268,
+      "sha256": "07324a2b9a85a0ad9f5e27536b763693b709038a62d5ad27cb86736752484890",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "mcp-content-styles/AGENTS.md",
+      "archive_path": "corpus/agents/mcp-content-styles/AGENTS.md",
+      "lines": 6,
+      "chars": 241,
+      "sha256": "4aef485e8225e431dcb7771ffc778e4844bbbe9e8148eeb488bf7fc5be9f078f",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "mcp-ecosystem/AGENTS.md",
+      "archive_path": "corpus/agents/mcp-ecosystem/AGENTS.md",
+      "lines": 6,
+      "chars": 232,
+      "sha256": "03a262568d8f1a149621e9850cad9101bca833fb81c7d7047dcffdf931817739",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "mcp-ffmpeg/AGENTS.md",
+      "archive_path": "corpus/agents/mcp-ffmpeg/AGENTS.md",
+      "lines": 6,
+      "chars": 241,
+      "sha256": "b0a7b7fda6a517e38833b569459caf99752d4f8592dfea32d5bede6ceb05d8b8",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "mcp-http-proxy/AGENTS.md",
+      "archive_path": "corpus/agents/mcp-http-proxy/AGENTS.md",
+      "lines": 32,
+      "chars": 1095,
+      "sha256": "e5037de1a0213efce4ac04975968f90e96ff57fc31f9709b45c3820f060f813a",
+      "headings": [
+        "# MCP HTTP Proxy Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Environment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "minimind/AGENTS.md",
+      "archive_path": "corpus/agents/minimind/AGENTS.md",
+      "lines": 22,
+      "chars": 1298,
+      "sha256": "e6a7b8a5a336aa153e793b9812b93ac97baaa4c527bbf37e6f3def4666a2c25e",
+      "headings": [
+        "# Repository Notes",
+        "## Working Rules",
+        "## Relevant Commands"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "minimind/website/AGENTS.md",
+      "archive_path": "corpus/agents/minimind/website/AGENTS.md",
+      "lines": 5,
+      "chars": 325,
+      "sha256": "e3447d84251880fb34cfae09131cb4c57471529bbfe60976a3245793cf621627",
+      "headings": [
+        "# This is NOT the Next.js you know"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "money-agent/AGENTS.md",
+      "archive_path": "corpus/agents/money-agent/AGENTS.md",
+      "lines": 49,
+      "chars": 2023,
+      "sha256": "102770c6a97199ba05f8af01c62b79101da7aa1575b57c8b54c3f9d248ca0a5a",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Structure",
+        "## Commands",
+        "## Environment",
+        "## Deployment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "name-agent/AGENTS.md",
+      "archive_path": "corpus/agents/name-agent/AGENTS.md",
+      "lines": 30,
+      "chars": 1138,
+      "sha256": "96894c9fa76f6681edf03d3409b43d6214ebd0eb0c18f0b9fa80b6e54917921c",
+      "headings": [
+        "# Name Agent Working Guide",
+        "## Local Rules",
+        "## Commands",
+        "## Deployment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/.github/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/_dot_github/AGENTS.md",
+      "lines": 7,
+      "chars": 293,
+      "sha256": "873200171376f6287bc1209fda3b8f3d852de1f6e9e72ff04ca79a89ccb5c6b8",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/casa/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/casa/AGENTS.md",
+      "lines": 6,
+      "chars": 250,
+      "sha256": "a2b6139bb3ae20c697d69d3850bec96e3874aa1f0b91fe0f146f9da404e5b96a",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/community/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/community/AGENTS.md",
+      "lines": 7,
+      "chars": 295,
+      "sha256": "aa65be92509a39d119c432357a3eb1123a56c446134065a44593497b06d97f52",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/coral/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/coral/AGENTS.md",
+      "lines": 6,
+      "chars": 243,
+      "sha256": "5b2f289729d3e673976011baf503826cf8abc15f8be07044d84b730735e7daf9",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/homebrew-tap/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/homebrew-tap/AGENTS.md",
+      "lines": 7,
+      "chars": 294,
+      "sha256": "fc6715d20ec5d49e63d8ceebe54bd19b20bbc8f6e66332fa76716bb842e37ae8",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/mcp-discord/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/mcp-discord/AGENTS.md",
+      "lines": 22,
+      "chars": 827,
+      "sha256": "dcb7287a708e88956137e568b6a9b4ba0821464d799ce2d4db2b4ef3ba52a839",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Environment",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/openoctopus-ansible/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/openoctopus-ansible/AGENTS.md",
+      "lines": 31,
+      "chars": 1308,
+      "sha256": "cdfa77d7c425052af331742fd6c5c853eaf092027aa7c47c2a97d0435189b581",
+      "headings": [
+        "# OpenOctopus Ansible Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Environment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/openoctopus.club/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/openoctopus.club/AGENTS.md",
+      "lines": 32,
+      "chars": 1002,
+      "sha256": "0e20a98812bc565f37f2125a34acba6e02dcabede7459d3a7b434fda38e6b516",
+      "headings": [
+        "# openoctopus.club Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Environment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/realmhub/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/realmhub/AGENTS.md",
+      "lines": 22,
+      "chars": 776,
+      "sha256": "c02f85ffee9f008c50194725316840f1f940b0967477c2b5483ad3e75ec51969",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Environment",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/realms/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/realms/AGENTS.md",
+      "lines": 6,
+      "chars": 236,
+      "sha256": "6dd8beab12cdf8db7f13b9642ab5c2339f49e056060c6737161bb5d3d89bede1",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/reef-bot/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/reef-bot/AGENTS.md",
+      "lines": 24,
+      "chars": 703,
+      "sha256": "39cb7a5b80cc08f030f131f1ae8d7ed43c40d80f113bb57a245baad5842685de",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Environment",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "open-octopus/soul-gallery/AGENTS.md",
+      "archive_path": "corpus/agents/open-octopus/soul-gallery/AGENTS.md",
+      "lines": 6,
+      "chars": 237,
+      "sha256": "07af0e35caf8cc0e922c24b91e7463b88f3e11017a5bc10a2fb991da78eadb74",
+      "headings": [
+        "# Repository Guidelines"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "openclawpool/AGENTS.md",
+      "archive_path": "corpus/agents/openclawpool/AGENTS.md",
+      "lines": 5,
+      "chars": 325,
+      "sha256": "e3447d84251880fb34cfae09131cb4c57471529bbfe60976a3245793cf621627",
+      "headings": [
+        "# This is NOT the Next.js you know"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "Papers/AGENTS.md",
+      "archive_path": "corpus/agents/Papers/AGENTS.md",
+      "lines": 18,
+      "chars": 801,
+      "sha256": "dc2ae8e608161b735dd33462c7bd31b7fd0c30fcd748175fd540eaff462169be",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "pua-cli/AGENTS.md",
+      "archive_path": "corpus/agents/pua-cli/AGENTS.md",
+      "lines": 22,
+      "chars": 778,
+      "sha256": "c5eed4ac87d7a5114d5fd3e759809fe61fc0a00347b5c886db3f4338d64f928c",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Environment",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "sb/AGENTS.md",
+      "archive_path": "corpus/agents/sb/AGENTS.md",
+      "lines": 26,
+      "chars": 831,
+      "sha256": "21e913c9553d95e400512b3a0750eb25739bce7c5f83e3f48e61bf407779cbaa",
+      "headings": [
+        "# S.B. Smart Brain Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Deployment Notes"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "trip-ava/AGENTS.md",
+      "archive_path": "corpus/agents/trip-ava/AGENTS.md",
+      "lines": 28,
+      "chars": 828,
+      "sha256": "4d650b3745b2698e7544d5385e477ff9c84216fbaee13ca985d903943c9464fe",
+      "headings": [
+        "# Trip-AVA Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Deployment Notes"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "trip-map/AGENTS.md",
+      "archive_path": "corpus/agents/trip-map/AGENTS.md",
+      "lines": 23,
+      "chars": 779,
+      "sha256": "7ea556ee947ad7f4208808aab80c36964bf53c8e5be4c33ab3c1cf83149deb12",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Environment",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "vedio-agent/AGENTS.md",
+      "archive_path": "corpus/agents/vedio-agent/AGENTS.md",
+      "lines": 36,
+      "chars": 1647,
+      "sha256": "599de1a86d919e0358826090ce57f58a17e6b0e8c9e2510c7409c4a2d0f42e42",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Structure",
+        "## Commands",
+        "## Deployment",
+        "## Content Maintenance"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "vietnam-agent/AGENTS.md",
+      "archive_path": "corpus/agents/vietnam-agent/AGENTS.md",
+      "lines": 19,
+      "chars": 760,
+      "sha256": "9b1029de044c2b46e2de9a03c3502acbb4f36ed7c88ffd428776232401ed4a38",
+      "headings": [
+        "# Repository Guidelines",
+        "## Project Shape",
+        "## Commands",
+        "## Editing Rules"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "yuanjie-ar-mp/AGENTS.md",
+      "archive_path": "corpus/agents/yuanjie-ar-mp/AGENTS.md",
+      "lines": 30,
+      "chars": 1277,
+      "sha256": "2ab78c00f03609ea772b2fdd39c2fe98eeb7bdad690bb1cc1d22213759e7a8c1",
+      "headings": [
+        "# Yuanjie AR Mini Program Maintenance Guide",
+        "## Project State",
+        "## Before Editing",
+        "## Useful Commands",
+        "## Environment"
+      ]
+    },
+    {
+      "kind": "agents",
+      "source_path": "yuanjie/AGENTS.md",
+      "archive_path": "corpus/agents/yuanjie/AGENTS.md",
+      "lines": 29,
+      "chars": 1265,
+      "sha256": "d5065c5c5b01589228a69ae7993b9379ac0f0c17a656c6dd980b3d8a6fe9459f",
+      "headings": [
+        "# Yuanjie Working Guide",
+        "## Local Rules",
+        "## Verification",
+        "## Related Materials"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "2077-daily/CLAUDE.md",
+      "archive_path": "corpus/claude/2077-daily/CLAUDE.md",
+      "lines": 1,
+      "chars": 11,
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "headings": []
+    },
+    {
+      "kind": "claude",
+      "source_path": "ai-agent-crewai/CLAUDE.md",
+      "archive_path": "corpus/claude/ai-agent-crewai/CLAUDE.md",
+      "lines": 31,
+      "chars": 1046,
+      "sha256": "bad327e7cab1f7383eac8192b6f0b5584729ae2bccc354b6f5766bb87e145b87",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Status",
+        "## Development Setup",
+        "# Create and activate virtual environment"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "ai-archi-analyzer/CLAUDE.md",
+      "archive_path": "corpus/claude/ai-archi-analyzer/CLAUDE.md",
+      "lines": 95,
+      "chars": 5076,
+      "sha256": "9225ff67937caafd05febf9985397504b01b905bcf9a924a647064fe3be401f2",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Commands",
+        "# Install dependencies",
+        "# Or editable install"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "ai-chat-chrome/hotel-compare/web/CLAUDE.md",
+      "archive_path": "corpus/claude/ai-chat-chrome/hotel-compare/web/CLAUDE.md",
+      "lines": 1,
+      "chars": 11,
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "headings": []
+    },
+    {
+      "kind": "claude",
+      "source_path": "ai-codereview-web/CLAUDE.md",
+      "archive_path": "corpus/claude/ai-codereview-web/CLAUDE.md",
+      "lines": 21,
+      "chars": 750,
+      "sha256": "31f61e8c8de106303cada728ac70336141b771b68f82a2c1daf56e58cc65ef20",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project",
+        "## Development"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "ai-hackthon/agentverse/CLAUDE.md",
+      "archive_path": "corpus/claude/ai-hackthon/agentverse/CLAUDE.md",
+      "lines": 1,
+      "chars": 11,
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "headings": []
+    },
+    {
+      "kind": "claude",
+      "source_path": "ai-home-care-platform/CLAUDE.md",
+      "archive_path": "corpus/claude/ai-home-care-platform/CLAUDE.md",
+      "lines": 1,
+      "chars": 11,
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "headings": []
+    },
+    {
+      "kind": "claude",
+      "source_path": "ai-meeting-web/CLAUDE.md",
+      "archive_path": "corpus/claude/ai-meeting-web/CLAUDE.md",
+      "lines": 42,
+      "chars": 2754,
+      "sha256": "eab4d9ceec93824df55b7246429de0253a4ad17d2f4ed8bef415b06368cdde3a",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Commands",
+        "## Architecture",
+        "## Conventions"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "ai-rag-pipeline/CLAUDE.md",
+      "archive_path": "corpus/claude/ai-rag-pipeline/CLAUDE.md",
+      "lines": 79,
+      "chars": 3377,
+      "sha256": "d4791cbff1d1c4f5b7507f4a757884f4b38572cb456a6c46ca8a3162bc8af1c8",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Commands",
+        "# Install dependencies",
+        "# Run full pipeline"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "AI/CLAUDE.md",
+      "archive_path": "corpus/claude/AI/CLAUDE.md",
+      "lines": 296,
+      "chars": 6637,
+      "sha256": "969ade3e20cfbf16242428b9ad58a73609e1dccc97394fdba66fe19366d0e3bf",
+      "headings": [
+        "# CLAUDE.md",
+        "## 项目概述",
+        "## 目录结构",
+        "## 编号系统",
+        "## 命名规范"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "awesome-ai-ideas/site/CLAUDE.md",
+      "archive_path": "corpus/claude/awesome-ai-ideas/site/CLAUDE.md",
+      "lines": 1,
+      "chars": 11,
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "headings": []
+    },
+    {
+      "kind": "claude",
+      "source_path": "bci-research/CLAUDE.md",
+      "archive_path": "corpus/claude/bci-research/CLAUDE.md",
+      "lines": 58,
+      "chars": 2803,
+      "sha256": "54477703bc58e88fb8a683384400d44cd4ea1400a55e26ac43065e698d3f6c33",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Document Architecture",
+        "## Writing Conventions",
+        "## BCI Agent MVP (`app/`)"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "bci-research/web/CLAUDE.md",
+      "archive_path": "corpus/claude/bci-research/web/CLAUDE.md",
+      "lines": 1,
+      "chars": 11,
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "headings": []
+    },
+    {
+      "kind": "claude",
+      "source_path": "bin/CLAUDE.md",
+      "archive_path": "corpus/claude/bin/CLAUDE.md",
+      "lines": 47,
+      "chars": 2034,
+      "sha256": "42eb75d274590e623aba617b5253dec6d0cbfdbe20f5e9bf35800009964f58f4",
+      "headings": [
+        "# CLAUDE.md",
+        "## Overview",
+        "## Commands",
+        "## Architecture",
+        "## Supported Providers"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "books/CLAUDE.md",
+      "archive_path": "corpus/claude/books/CLAUDE.md",
+      "lines": 55,
+      "chars": 2330,
+      "sha256": "da76df9941f5d0a562df19126b2aa0da4f8f69920eebd1baf3d91d008e0d5f37",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Repository Structure",
+        "### CodeGodChronicles layout:",
+        "## Key World-Building Concepts"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "brag/ai_claude_code/CLAUDE.md",
+      "archive_path": "corpus/claude/brag/ai_claude_code/CLAUDE.md",
+      "lines": 188,
+      "chars": 6501,
+      "sha256": "5ece4d241c161be91472c81f565c6b36269f28496d5f22a508261c8ed150d261",
+      "headings": [
+        "# Claude Code Configuration - RuFlo V3",
+        "## Behavioral Rules (Always Enforced)",
+        "## File Organization",
+        "## Project Architecture",
+        "### Project Config"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "brag/ai_openclaw/CLAUDE.md",
+      "archive_path": "corpus/claude/brag/ai_openclaw/CLAUDE.md",
+      "lines": 266,
+      "chars": 7072,
+      "sha256": "01a3ffddacea84ef359ffabe832056cbc0403e35b582e8109ac157461d8b4f5b",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Repository Structure",
+        "## Documentation Standards",
+        "### File Naming Convention"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "brag/ai_tools/CLAUDE.md",
+      "archive_path": "corpus/claude/brag/ai_tools/CLAUDE.md",
+      "lines": 206,
+      "chars": 4010,
+      "sha256": "1e8f7a4d3f2f52cb3c7d64597043c289aba2a409adcb9e797d449603bf4553dc",
+      "headings": [
+        "# CLAUDE.md",
+        "## 项目概述",
+        "## 开发环境",
+        "### 核心命令",
+        "# 开发服务器（端口 8765）"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "brag/AI创意/一站式会议助手/CLAUDE.md",
+      "archive_path": "corpus/claude/brag/AI创意/一站式会议助手/CLAUDE.md",
+      "lines": 139,
+      "chars": 4679,
+      "sha256": "040d4710bcd2d874698ebb1e7ebc37dff24fff9bf385513e80093345f184702b",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Common Development Commands",
+        "### ai-meeting-web (React + Vite)",
+        "### ai-meeting-web-next (Next.js)"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "brag/AI创意/摩托车社区/CLAUDE.md",
+      "archive_path": "corpus/claude/brag/AI创意/摩托车社区/CLAUDE.md",
+      "lines": 163,
+      "chars": 5892,
+      "sha256": "9dfdfef83d31748535b474e7892703e82544127c9fa352f3676eb215f7cebd8e",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Common Commands",
+        "### Frontend Development",
+        "### Cloud Functions (WeChat Mini Program Backend)"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "brag/CLAUDE.md",
+      "archive_path": "corpus/claude/brag/CLAUDE.md",
+      "lines": 250,
+      "chars": 5294,
+      "sha256": "be34c31a43541484ce49a4fa98b69d1bcfe844d815b5dabe1006781e91de659a",
+      "headings": [
+        "# CLAUDE.md",
+        "## 项目概述",
+        "## 项目结构",
+        "### 核心目录",
+        "### AI 技术栈"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "capa.io/CLAUDE.md",
+      "archive_path": "corpus/claude/capa.io/CLAUDE.md",
+      "lines": 146,
+      "chars": 4428,
+      "sha256": "95d874bd5d455a5752945bbbf10af5967b14db323575a503bc4dd782445a1e98",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Development Commands",
+        "### Prerequisites",
+        "### Setup"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "Claude-Code-Game-Studios/CLAUDE.md",
+      "archive_path": "corpus/claude/Claude-Code-Game-Studios/CLAUDE.md",
+      "lines": 103,
+      "chars": 4023,
+      "sha256": "1777b43ece1d200e5eb519ceef82788f31e3529d98f93ec3638cce3309ef6a6f",
+      "headings": [
+        "# CLAUDE.md",
+        "## What This Is",
+        "## Agent Architecture",
+        "## Technology Stack",
+        "## Automated Safety (Hooks)"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "health-agent/CLAUDE.md",
+      "archive_path": "corpus/claude/health-agent/CLAUDE.md",
+      "lines": 170,
+      "chars": 7168,
+      "sha256": "0c4ca5cd0360673675fb2ab45cc31285c99ccef21c65e2f5a6290af6b01ae68b",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Commands",
+        "# All commands run from the app/ directory",
+        "## Architecture"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "ikun/ikun-activity/CLAUDE.md",
+      "archive_path": "corpus/claude/ikun/ikun-activity/CLAUDE.md",
+      "lines": 192,
+      "chars": 4767,
+      "sha256": "991f21939e54652d252b77cb3b2020592858ba3b1ba121cf3b9ab8130b4ad4e3",
+      "headings": [
+        "# CLAUDE.md",
+        "## 项目简介",
+        "## 开发注意事项",
+        "## 常用命令",
+        "### 数据库"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "kevinten10.github.io/CLAUDE.md",
+      "archive_path": "corpus/claude/kevinten10.github.io/CLAUDE.md",
+      "lines": 191,
+      "chars": 6697,
+      "sha256": "ccf4a1ce5ee63e3678b03e18ea5a2c650cfd788c21d50fe69006baa3b6724bba",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Common Commands",
+        "### Local Development",
+        "# Start a local server (Python)"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "kevinten10.github.io/next-portfolio/CLAUDE.md",
+      "archive_path": "corpus/claude/kevinten10.github.io/next-portfolio/CLAUDE.md",
+      "lines": 1,
+      "chars": 11,
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "headings": []
+    },
+    {
+      "kind": "claude",
+      "source_path": "kimi/CLAUDE.md",
+      "archive_path": "corpus/claude/kimi/CLAUDE.md",
+      "lines": 28,
+      "chars": 579,
+      "sha256": "80fe60769353a4a33fb6095be1660f438113e500be319ae69a604544d0b5ec87",
+      "headings": [
+        "# Kimi AI Ideas 项目",
+        "## 项目结构",
+        "## 部署规则",
+        "## 仓库名规范",
+        "## 进度跟踪"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "maichong/CLAUDE.md",
+      "archive_path": "corpus/claude/maichong/CLAUDE.md",
+      "lines": 105,
+      "chars": 4585,
+      "sha256": "86c26f8e3d724f9bd4e111609c27b2ed0fcff5f059da58e298697a897dd07a35",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Build & Dev Commands",
+        "## Tech Stack",
+        "## Configuration"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "mcp-avatar/CLAUDE.md",
+      "archive_path": "corpus/claude/mcp-avatar/CLAUDE.md",
+      "lines": 53,
+      "chars": 2427,
+      "sha256": "c29668fdd38d602e32ca0385d38d9e9c0956bccff6b2735120aa59c09a1f0a57",
+      "headings": [
+        "# CLAUDE.md — mcp-avatar",
+        "## Project Overview",
+        "## Architecture",
+        "## Key Design Decisions",
+        "## Provider Patterns"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "mcp-image-gen/CLAUDE.md",
+      "archive_path": "corpus/claude/mcp-image-gen/CLAUDE.md",
+      "lines": 33,
+      "chars": 1438,
+      "sha256": "0112d9e12f6ab97ad69cca7c7980d599122c0208dadb0a475a5a49c846918bc2",
+      "headings": [
+        "# CLAUDE.md — mcp-image-gen",
+        "## Project Overview",
+        "## Architecture",
+        "## Key Design Decisions",
+        "## Development"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "mcp-media-toolkit/CLAUDE.md",
+      "archive_path": "corpus/claude/mcp-media-toolkit/CLAUDE.md",
+      "lines": 32,
+      "chars": 1400,
+      "sha256": "1133e4b2cd9b086c5ba592fad832e91463bb6ac07bf0ecc207427533a8ef5040",
+      "headings": [
+        "# CLAUDE.md — mcp-media-toolkit",
+        "## Project Overview",
+        "## Architecture",
+        "## Key Design Decisions",
+        "## Development"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "mcp-presentation/CLAUDE.md",
+      "archive_path": "corpus/claude/mcp-presentation/CLAUDE.md",
+      "lines": 33,
+      "chars": 1688,
+      "sha256": "e2e6a0ef25d3ec511158f80df73908b3735db474b9f83bfaaaf77a1ec4d258b4",
+      "headings": [
+        "# CLAUDE.md — mcp-presentation",
+        "## Project Overview",
+        "## Architecture",
+        "## Key Design Decisions",
+        "## Development"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "mcp-social-publisher/CLAUDE.md",
+      "archive_path": "corpus/claude/mcp-social-publisher/CLAUDE.md",
+      "lines": 53,
+      "chars": 2425,
+      "sha256": "a68f823e98af25aaf66e16d42fd4797452df6d344a3ca49764cea27d769f9eeb",
+      "headings": [
+        "# CLAUDE.md — mcp-social-publisher",
+        "## Project Overview",
+        "## Architecture",
+        "## Key Design Decisions",
+        "## Platform Patterns"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "mcp-subtitle/CLAUDE.md",
+      "archive_path": "corpus/claude/mcp-subtitle/CLAUDE.md",
+      "lines": 47,
+      "chars": 3104,
+      "sha256": "3a6688a190152ef653fd8dad6ee24c2f1dc18804dcedc1884d99d153c994a4ea",
+      "headings": [
+        "# CLAUDE.md -- mcp-subtitle",
+        "## Project Overview",
+        "## Architecture",
+        "## Key Design Decisions",
+        "## Tool Flow"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "mcp-video-gen/CLAUDE.md",
+      "archive_path": "corpus/claude/mcp-video-gen/CLAUDE.md",
+      "lines": 54,
+      "chars": 3215,
+      "sha256": "cf3dcb3e034ab905c9353992cb6d82bd73cfbe34f212b20afe01fb609e8f3e79",
+      "headings": [
+        "# CLAUDE.md — mcp-video-gen",
+        "## Project Overview",
+        "## Architecture",
+        "## Key Design Decisions",
+        "## Provider Patterns"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "mcp-voice-clone/CLAUDE.md",
+      "archive_path": "corpus/claude/mcp-voice-clone/CLAUDE.md",
+      "lines": 46,
+      "chars": 2366,
+      "sha256": "ae93b8354e5b54efc675a0eeb3e2907dfc5777c148bf4677dd31df2fada657a7",
+      "headings": [
+        "# CLAUDE.md — mcp-voice-clone",
+        "## Project Overview",
+        "## Architecture",
+        "## Key Design Decisions",
+        "## Provider Patterns"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "minimind/CLAUDE.md",
+      "archive_path": "corpus/claude/minimind/CLAUDE.md",
+      "lines": 108,
+      "chars": 5949,
+      "sha256": "2535955cb77cb39e2edb05b821a0f069a1f0ef9e7524f13cc1b80ab6e277e706",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Repository Structure",
+        "## Common Commands",
+        "# Install dependencies"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "minimind/website/CLAUDE.md",
+      "archive_path": "corpus/claude/minimind/website/CLAUDE.md",
+      "lines": 1,
+      "chars": 11,
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "headings": []
+    },
+    {
+      "kind": "claude",
+      "source_path": "openclawpool/CLAUDE.md",
+      "archive_path": "corpus/claude/openclawpool/CLAUDE.md",
+      "lines": 1,
+      "chars": 11,
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "headings": []
+    },
+    {
+      "kind": "claude",
+      "source_path": "OpenOctopus/CLAUDE.md",
+      "archive_path": "corpus/claude/OpenOctopus/CLAUDE.md",
+      "lines": 152,
+      "chars": 8373,
+      "sha256": "f4b999c43763f49436a0c0b27e373279c58d86bfc6a5a1ef8470b7e87963b655",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Tech Stack",
+        "## Monorepo Structure",
+        "## Commands"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "Papers/CLAUDE.md",
+      "archive_path": "corpus/claude/Papers/CLAUDE.md",
+      "lines": 61,
+      "chars": 2935,
+      "sha256": "d1b72ffb740382037431838fc5ec4ca5bdb8d3de10d673e2a43fbbabaabd9fcc",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Commands",
+        "## Architecture",
+        "### Static Site Structure"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "promotion-agent/CLAUDE.md",
+      "archive_path": "corpus/claude/promotion-agent/CLAUDE.md",
+      "lines": 100,
+      "chars": 3710,
+      "sha256": "66eece5aca8bd6aaa0e2e621c6c61ed994fdef44860be4a149be5311d2a6c0f3",
+      "headings": [
+        "# CLAUDE.md — promotion-agent",
+        "## Project Overview",
+        "## Tech Stack",
+        "## Architecture",
+        "## Key Patterns"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "spa-agent/CLAUDE.md",
+      "archive_path": "corpus/claude/spa-agent/CLAUDE.md",
+      "lines": 105,
+      "chars": 4798,
+      "sha256": "4d354a0e8d2e4326826ff6f2106618945eb4834b13534795f37f31b66b1b7456",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Commands",
+        "## Architecture",
+        "### Frontend (Expo Router file-based routing)"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "spatial-memory/CLAUDE.md",
+      "archive_path": "corpus/claude/spatial-memory/CLAUDE.md",
+      "lines": 85,
+      "chars": 3314,
+      "sha256": "fec74073f4dd8e8ca685c56fcf955063a631037440fffb1255c3560b013572b0",
+      "headings": [
+        "# CLAUDE.md — Spatial Memory Network",
+        "## What This Is",
+        "## Tech Stack",
+        "## Quick Start",
+        "## Project Structure"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "TripMeta/CLAUDE.md",
+      "archive_path": "corpus/claude/TripMeta/CLAUDE.md",
+      "lines": 245,
+      "chars": 10450,
+      "sha256": "80de40dede43021069f0ba4de98cb34c3ce7f637d1b249060ff6f16b19cb0fa9",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Project Structure",
+        "## Development Commands",
+        "### Unity Project"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "yuanjie-ar-weapp/CLAUDE.md",
+      "archive_path": "corpus/claude/yuanjie-ar-weapp/CLAUDE.md",
+      "lines": 65,
+      "chars": 2069,
+      "sha256": "4967cea81ab1df084528d71b52d69b5bcd43eefcc8d8eb02f6598cf36f1bd871",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Common Commands",
+        "# Development",
+        "# Build"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "yuanjie-ar/CLAUDE.md",
+      "archive_path": "corpus/claude/yuanjie-ar/CLAUDE.md",
+      "lines": 94,
+      "chars": 4428,
+      "sha256": "d29a0aedba82f1e1e0760b0928e200dd4fd9d1bea0f96d2b5f332fa6e543c523",
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Repository Contents",
+        "### UI Mockups (C-end Mobile Interface)",
+        "### Requirements"
+      ]
+    },
+    {
+      "kind": "claude",
+      "source_path": "yuanjie/ai-product-playbook/CLAUDE.md",
+      "archive_path": "corpus/claude/yuanjie/ai-product-playbook/CLAUDE.md",
+      "lines": 67,
+      "chars": 3634,
+      "sha256": "92a5f14d3a2ed54be38df4ae5e8de2658a4d7e5df2fa0dfd98a567831903f048",
+      "headings": [
+        "# CLAUDE.md",
+        "## What This Repo Is",
+        "## Directory Taxonomy",
+        "## Content Conventions",
+        "## Case Study Framework (07-案例研究)"
+      ]
+    }
+  ]
+}
