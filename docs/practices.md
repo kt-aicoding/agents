@@ -2,6 +2,8 @@
 
 This guide distills patterns from the archived corpus.
 
+For the fuller rubric, see `docs/best-practice-framework.md`. For source-backed external notes, see `docs/external-research.md`.
+
 ## 1. Use Layers
 
 Agent instructions work best as layers:
@@ -10,6 +12,7 @@ Agent instructions work best as layers:
 - Project `AGENTS.md`: local project state, commands, hazards, verification, and deployment notes.
 - Package/subproject `AGENTS.md`: framework-specific caveats or package-local commands.
 - `CLAUDE.md`: historical Claude-specific context or migration source.
+- Skills: reusable workflows that are too long or procedural for a project instruction file.
 
 ## 2. Keep Root Rules Stable
 
@@ -37,6 +40,8 @@ Project guides should record real commands from local scripts and README files:
 ```
 
 Do not invent test/build commands for reference-only repositories.
+
+For active projects, prefer command entries that explain purpose, not just syntax. An agent should know which command is for local development, which is for build verification, and which is safe before deployment.
 
 ## 4. Mark Project State Explicitly
 
@@ -109,3 +114,30 @@ Move durable, cross-agent instructions from `CLAUDE.md` to `AGENTS.md` when:
 
 Keep Claude-specific command references in `CLAUDE.md`.
 
+## 11. Convert Repeated Workflows Into Skills
+
+When the same checklist appears in multiple projects, it is a candidate for a Codex skill:
+
+- deployment release flow
+- project inventory and triage
+- browser QA
+- security review
+- migration from `CLAUDE.md` to `AGENTS.md`
+- tool installation and login inventory
+
+The project `AGENTS.md` should link to the skill or name it, while the skill owns the long process.
+
+## 12. Update Instructions From Real Failures
+
+An instruction file should change when an agent repeatedly has to rediscover the same information or makes the same wrong assumption.
+
+Good update triggers:
+
+- missing package manager or command
+- wrong deploy target
+- unclear project status
+- fragile generated files or migrations
+- secrets handling ambiguity
+- repeated UI verification gaps
+
+Avoid adding generic rules that did not come from a real problem in the project.

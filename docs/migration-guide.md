@@ -14,6 +14,7 @@ Move durable rules into `AGENTS.md`:
 - validation expectations
 - known hazards
 - project state: active, maintenance, reference, archive
+- repeated workflow entry points that should become skills
 
 Keep in `CLAUDE.md`:
 
@@ -22,6 +23,7 @@ Keep in `CLAUDE.md`:
 - conversation history
 - temporary planning notes
 - personal scratch instructions
+- Claude memory behavior or Claude-only context conventions
 
 ## Suggested Process
 
@@ -29,7 +31,8 @@ Keep in `CLAUDE.md`:
 2. Extract only stable instructions.
 3. Create concise `AGENTS.md`.
 4. Keep `CLAUDE.md` if it still contains Claude-specific material.
-5. Run the narrowest project verification command after changing docs only if the project expects it.
+5. Move repeated multi-step workflows into a skill instead of copying them into every project.
+6. Run the narrowest project verification command after changing docs only if the project expects it.
 
 ## Minimal AGENTS.md Template
 
@@ -59,4 +62,3 @@ Describe the smallest meaningful check.
 ## Migration Triage
 
 Prioritize active projects and repositories that agents touch often. Do not migrate every historical `CLAUDE.md` automatically.
-
