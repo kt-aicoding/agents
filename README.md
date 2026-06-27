@@ -13,6 +13,57 @@
 - 把重复出现的长流程沉淀为 Codex skills，而不是塞进每个项目的 `AGENTS.md`。
 - 在发布和再生成语料前持续做敏感信息检查。
 
+## 整体图示
+
+这个仓库的核心路径是：从真实项目经验出发，经过清洗、归纳、对照资料和审查，沉淀为可复用的指令模板与工作流。
+
+```mermaid
+flowchart LR
+    A["真实项目实践<br/>AGENTS.md / CLAUDE.md"] --> B["归档语料<br/>corpus/"]
+    B --> C["模式提炼<br/>docs/practices.md"]
+    C --> D["最佳实践框架<br/>rubric + 模板"]
+    D --> E["项目指令优化<br/>AGENTS.md"]
+    D --> F["Claude 专属保留<br/>CLAUDE.md"]
+    D --> G["重复流程沉淀<br/>Codex skills"]
+    H["官方资料<br/>Codex / Claude / Gemini"] --> C
+    I["敏感信息检查<br/>gitleaks + 人工抽查"] --> B
+    I --> D
+```
+
+指令文件的分工可以按下面的判断方式处理：
+
+```mermaid
+flowchart TD
+    A["一条规则或流程"] --> B{"是否适用于多个 AI 编程代理？"}
+    B -->|是| C{"是否是项目级稳定事实？"}
+    C -->|是| D["写入 AGENTS.md<br/>项目状态、命令、架构、验证、安全规则"]
+    C -->|否，是跨项目偏好| E["写入全局 AGENTS.md<br/>稳定工作习惯和安全边界"]
+    B -->|否| F{"是否是 Claude Code 专属？"}
+    F -->|是| G["保留在 CLAUDE.md<br/>Claude 命令、记忆、MCP 名称、历史工作流"]
+    F -->|否| H{"是否是重复出现的长流程？"}
+    H -->|是| I["沉淀为 Codex skill<br/>发布、QA、安全审查、迁移流程"]
+    H -->|否| J["保留在 README 或普通文档<br/>面向人类阅读"]
+```
+
+最佳实践不是一次性写完，而是通过真实任务持续改进：
+
+```mermaid
+sequenceDiagram
+    participant Project as 项目仓库
+    participant Agent as AI 编程代理
+    participant Corpus as agents 语料库
+    participant Docs as 最佳实践文档
+    participant Skill as Codex skills
+
+    Project->>Agent: 执行真实开发任务
+    Agent->>Project: 暴露缺失命令、验证方式或风险边界
+    Project->>Corpus: 归档 AGENTS.md / CLAUDE.md
+    Corpus->>Docs: 提炼重复模式和失败点
+    Docs->>Project: 更新项目级 AGENTS.md
+    Docs->>Skill: 将重复长流程沉淀为 skill
+    Docs->>Corpus: 发布前进行敏感信息检查
+```
+
 ## 目录结构
 
 | 路径 | 说明 |
