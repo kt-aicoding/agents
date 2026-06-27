@@ -151,7 +151,7 @@ docker-compose logs -f backend  # 查看后端日志
 **认证流程**:
 1. 前端跳转 `/api/v1/auth/linuxdo/login`
 2. OAuth 回调 `/api/v1/auth/linuxdo/callback`
-3. 后端签发 JWT，重定向前端 `/login#token=xxx&user=base64`
+3. 后端签发 JWT，重定向前端 `/login#token=<jwt>`
 4. 前端解析存入 authStore
 
 **积分系统**:
