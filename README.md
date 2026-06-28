@@ -77,6 +77,7 @@ sequenceDiagram
 | `docs/external-research.md` | Codex、Claude Code、Gemini CLI 等外部资料笔记。 |
 | `docs/migration-guide.md` | 将稳定的 `CLAUDE.md` 内容迁移到 `AGENTS.md` 的指南。 |
 | `docs/patterns/` | 可复用的 `AGENTS.md` 模板。 |
+| `docs/goals/` | 可长期执行、可恢复、可验证的 Codex goal 指令文件。 |
 | `docs/source-workspace-agents-index.md` | 来源工作区的 agents 文件索引和迁移候选。 |
 
 ## 当前快照

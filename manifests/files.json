@@ -19,8 +19,8 @@
       "source_path": "3d-agent/AGENTS.md",
       "archive_path": "corpus/agents/3d-agent/AGENTS.md",
       "lines": 28,
-      "chars": 944,
-      "sha256": "eb5d23cc6bb751495400d250f95f1490648955f477f23d62b930701d59446433",
+      "chars": 1014,
+      "sha256": "ae63fd31c3a66ec735b1c8e37c9b315975655d44ab6f8731ed915d92ea310083",
       "headings": "# 3D Agent Maintenance Guide | ## Project State | ## Before Editing | ## Useful Commands | ## Deployment Notes"
     },
     {
@@ -208,8 +208,8 @@
       "source_path": "argue-agent/AGENTS.md",
       "archive_path": "corpus/agents/argue-agent/AGENTS.md",
       "lines": 27,
-      "chars": 1012,
-      "sha256": "1932ef29121a45cbca257fe190ee4d334ec2b16e2fd29f11550bc4eb1e704e9e",
+      "chars": 1023,
+      "sha256": "586497c91ce70f7873a89b23567aaf42ebf5d162c55c0dd8d4f5c21f8f3631b8",
       "headings": "# Argue Agent Maintenance Guide | ## Project State | ## Before Editing | ## Useful Commands | ## Deployment Notes"
     },
     {
@@ -235,8 +235,8 @@
       "source_path": "awesome-springfeistval/AGENTS.md",
       "archive_path": "corpus/agents/awesome-springfeistval/AGENTS.md",
       "lines": 21,
-      "chars": 689,
-      "sha256": "21672ee76f618ac029a8eb0acbe6753f6e7f2514fcd0b0c4fae6370f556bda9f",
+      "chars": 741,
+      "sha256": "b08fff1f13a20cae62b44a71a840f79b3415921fadde063b7362c789122afaa6",
       "headings": "# Repository Guidelines | ## Project Shape | ## Commands | ## Environment | ## Editing Rules"
     },
     {
@@ -378,9 +378,9 @@
       "kind": "agents",
       "source_path": "english-agent/AGENTS.md",
       "archive_path": "corpus/agents/english-agent/AGENTS.md",
-      "lines": 23,
-      "chars": 1068,
-      "sha256": "b6a872a354c1d930f26b5f1bc415ec3e63c7cccc0df84521a336fa3525327923",
+      "lines": 22,
+      "chars": 1067,
+      "sha256": "78f0d5a2623674b8ae9f9226787b174631e96528604bdc839c64014d91a3e3a8",
       "headings": "# Repository Notes | ## Working Rules | ## Validation"
     },
     {
@@ -658,8 +658,8 @@
       "source_path": "law-agent/AGENTS.md",
       "archive_path": "corpus/agents/law-agent/AGENTS.md",
       "lines": 27,
-      "chars": 1097,
-      "sha256": "04c6b1bd6890d6dae53baa81de4bd9084cf217e9580297356e63d1ba23ba29b4",
+      "chars": 1121,
+      "sha256": "37e159738cf9573e8daabcd4c96ffb149706fab076a779b682202bd56c6d6ff7",
       "headings": "# Law Agent Maintenance Guide | ## Project State | ## Before Editing | ## Useful Commands | ## Deployment Notes"
     },
     {
@@ -676,8 +676,8 @@
       "source_path": "maichong/AGENTS.md",
       "archive_path": "corpus/agents/maichong/AGENTS.md",
       "lines": 56,
-      "chars": 3200,
-      "sha256": "fc568f591b1dc8e9151991ead4cff45df9991cafc829c324dfd264fa9a213780",
+      "chars": 3187,
+      "sha256": "b3b8a5864e9dfcc33af902b212aead12794f2ec2a22f3664c95f6c8b9aa3989a",
       "headings": "# Repository Guidelines | ## Project Structure & Module Organization | ## Build, Test, and Development Commands | ## Coding Style & Naming Conventions | ## Testing Guidelines | ## Commit & Pull Request Guidelines | ## Security & Configuration Tips"
     },
     {
@@ -748,8 +748,8 @@
       "source_path": "money-agent/AGENTS.md",
       "archive_path": "corpus/agents/money-agent/AGENTS.md",
       "lines": 49,
-      "chars": 2023,
-      "sha256": "102770c6a97199ba05f8af01c62b79101da7aa1575b57c8b54c3f9d248ca0a5a",
+      "chars": 2026,
+      "sha256": "47a7d544bd8a26d98799248340cd0d915aeaea152dfce39f21f543cd338a564c",
       "headings": "# Repository Guidelines | ## Project Structure | ## Commands | ## Environment | ## Deployment | ## Maintenance Notes"
     },
     {
@@ -757,8 +757,8 @@
       "source_path": "name-agent/AGENTS.md",
       "archive_path": "corpus/agents/name-agent/AGENTS.md",
       "lines": 30,
-      "chars": 1138,
-      "sha256": "96894c9fa76f6681edf03d3409b43d6214ebd0eb0c18f0b9fa80b6e54917921c",
+      "chars": 1171,
+      "sha256": "7bb2881032ace4d8abd1127cfb349dc80116c6d9c0e7800171a46cdf7e5c9cab",
       "headings": "# Name Agent Working Guide | ## Local Rules | ## Commands | ## Deployment"
     },
     {
@@ -892,8 +892,8 @@
       "source_path": "sb/AGENTS.md",
       "archive_path": "corpus/agents/sb/AGENTS.md",
       "lines": 26,
-      "chars": 831,
-      "sha256": "21e913c9553d95e400512b3a0750eb25739bce7c5f83e3f48e61bf407779cbaa",
+      "chars": 842,
+      "sha256": "5a5e710608bd4ed30a7b71053c6757bcc8ec0c394952c8b7073d1ad3b0ce9dca",
       "headings": "# S.B. Smart Brain Maintenance Guide | ## Project State | ## Before Editing | ## Useful Commands | ## Deployment Notes"
     },
     {
@@ -1000,8 +1000,8 @@
       "source_path": "TripMeta/CLAUDE.md",
       "archive_path": "corpus/claude/TripMeta/CLAUDE.md",
       "lines": 245,
-      "chars": 10450,
-      "sha256": "80de40dede43021069f0ba4de98cb34c3ce7f637d1b249060ff6f16b19cb0fa9",
+      "chars": 10480,
+      "sha256": "99881f442a5c331b093d486507096ffa54b659ae5689cd06ca93031549f70e88",
       "headings": "# CLAUDE.md | ## Project Overview | ## Project Structure | ## Development Commands | ### Unity Project | ### Testing | ### Key Unity Packages (from manifest.json) | ## Architecture Patterns | ### Application Bootstrap | ### Dependency Injection | ### AI Service Architecture | ### VR System | ### Event System | ### Error Handling | ## Configuration System | ## Development Guidelines | ### C# Coding Standards | ### Unity-Specific Patterns | ### Async/Await Patterns | ### Service Registration Pattern | ## Important Notes | ### Platform Target | ### Performance Targets for VR | ### Critical Constraints | ### Common Issues | ## Common Workflows | ### Adding a New AI Service | ### Adding VR Interaction | ### Performance Profiling | ### Debugging AI Services | ## Documentation | ## Upgrade Planning"
     },
     {
@@ -1107,9 +1107,9 @@
       "kind": "claude",
       "source_path": "bin/CLAUDE.md",
       "archive_path": "corpus/claude/bin/CLAUDE.md",
-      "lines": 47,
-      "chars": 2034,
-      "sha256": "42eb75d274590e623aba617b5253dec6d0cbfdbe20f5e9bf35800009964f58f4",
+      "lines": 44,
+      "chars": 1857,
+      "sha256": "ef3ed1bbe35b57271e3bbe400458accf2996369bf0dfebdcfc2b0a6058469c08",
       "headings": "# CLAUDE.md | ## Overview | ## Commands | ## Architecture | ## Supported Providers | ## Environment Variables"
     },
     {
@@ -1225,8 +1225,8 @@
       "source_path": "kimi/CLAUDE.md",
       "archive_path": "corpus/claude/kimi/CLAUDE.md",
       "lines": 28,
-      "chars": 579,
-      "sha256": "80fe60769353a4a33fb6095be1660f438113e500be319ae69a604544d0b5ec87",
+      "chars": 606,
+      "sha256": "3a551499bb88de049a17c1c0bebe918d943f6cab6259cbc197d08cfbe54c8337",
       "headings": "# Kimi AI Ideas 项目 | ## 项目结构 | ## 部署规则 | ## 仓库名规范 | ## 进度跟踪"
     },
     {
@@ -1360,8 +1360,8 @@
       "source_path": "spatial-memory/CLAUDE.md",
       "archive_path": "corpus/claude/spatial-memory/CLAUDE.md",
       "lines": 85,
-      "chars": 3314,
-      "sha256": "fec74073f4dd8e8ca685c56fcf955063a631037440fffb1255c3560b013572b0",
+      "chars": 3361,
+      "sha256": "ca1f3b2c1cc79f5d6c4c0dc568bad2a857d0743c726b9aa4aff1281a4450256e",
       "headings": "# CLAUDE.md — Spatial Memory Network | ## What This Is | ## Tech Stack | ## Quick Start | ## Project Structure | ## Architecture | ## Key Design Decisions | ## Coding Conventions | ## Implementation Plan | ## Design Spec"
     },
     {
@@ -1378,8 +1378,8 @@
       "source_path": "yuanjie-ar/CLAUDE.md",
       "archive_path": "corpus/claude/yuanjie-ar/CLAUDE.md",
       "lines": 94,
-      "chars": 4428,
-      "sha256": "d29a0aedba82f1e1e0760b0928e200dd4fd9d1bea0f96d2b5f332fa6e543c523",
+      "chars": 4443,
+      "sha256": "cc26a2ccdf2f99e8e56e28e043c54a93cc76166d148c3c28b4d7bafa76535aa3",
       "headings": "# CLAUDE.md | ## Project Overview | ## Repository Contents | ### UI Mockups (C-end Mobile Interface) | ### Requirements | ### Review & Optimization Documents | ### Technical Research (调研) | ### API Documentation (docs/) | ## Tech Stack (Confirmed) | ## Key Design Decisions | ## Known Issues | ## Notes"
     },
     {

@@ -1,124 +1,141 @@
-# Agent Instruction Best Practice Framework
+# Agent 指令最佳实践框架
 
-This framework turns the local corpus into a practical review system for `AGENTS.md`, `CLAUDE.md`, and future agent instruction files.
+这个框架把本仓库的真实语料转化为可审查、可迁移、可持续优化的 `AGENTS.md` / `CLAUDE.md` 评估体系。
 
-## What The Corpus Shows
+## 语料显示的高价值章节
 
-The archived files repeat a few high-value sections:
+本地归档中反复出现并且最有用的章节包括：
 
-- Project overview or project state
-- Commands
-- Architecture or project structure
-- Environment handling
-- Before-editing checks
+- Project overview / Project state
+- Commands / Useful commands
+- Architecture / Project structure
+- Environment
+- Before editing
 - Validation
 - Deployment notes
-- Common pitfalls or hazards
+- Common pitfalls / Known hazards
 
-Those sections are useful because they answer the questions an agent must resolve before editing:
+这些章节之所以有价值，是因为它们回答了代理动手前必须知道的问题：
 
-- What kind of project is this?
-- What files and commands are safe to touch?
-- How do I verify the smallest meaningful change?
-- What should never be printed, committed, reverted, or deployed?
+- 这是活跃产品、库、参考资料、实验还是归档？
+- 哪些目录、生成文件、迁移或外部系统有边界？
+- 真实安装、开发、测试、构建、部署命令是什么？
+- 最小但足够的验证方式是什么？
+- 什么绝不能打印、提交、回滚或部署？
 
-## Recommended File Roles
+## 文件角色分工
 
-Use `AGENTS.md` as the cross-agent project contract:
+### `AGENTS.md`
 
-- repository purpose and current status
-- setup, dev, build, lint, test, and deploy commands
-- architecture map and ownership boundaries
-- safety rules for secrets, git state, generated files, migrations, and deployments
-- verification expectations
-- links to deeper docs instead of long copied material
+作为跨工具项目契约，适合记录：
 
-Use `CLAUDE.md` when the content is Claude Code specific:
+- 项目目的和当前状态
+- 目录结构和边界
+- 真实 setup/dev/build/lint/test/deploy 命令
+- secrets、dirty worktree、生成文件、迁移、部署等安全规则
+- 验证要求
+- 指向更深文档或 skill 的链接
 
+### `CLAUDE.md`
+
+作为 Claude Code 专属入口，适合记录：
+
+- `@AGENTS.md` 导入
 - Claude slash commands
-- Claude-only MCP tool names
-- Claude memory workflow notes
-- local Claude session conventions
-- temporary learnings that are not ready to become cross-agent rules
+- Claude-only MCP 工具名
+- Claude memory 或 `/memory` 工作流
+- 本地 Claude 会话约定
+- 暂时还不适合迁移到跨工具规则的历史经验
 
-Use a Codex skill when the instruction is a reusable workflow:
+### Codex Skill
 
-- release checklist
-- project triage
-- deployment workflow
-- browser QA flow
-- security review flow
-- migration or cleanup process
+作为可复用工作流，适合承载：
 
-## Recommended AGENTS.md Shape
+- 发布 checklist
+- 项目 triage
+- 浏览器 QA
+- 安全审查
+- 迁移流程
+- 工具安装和登录盘点
+
+## 推荐 AGENTS.md 结构
 
 ```md
 # Repository Guidelines
 
 ## Project State
 
-State whether this is an active product, library, reference repo, archive, generated demo, or experiment.
+说明这是活跃产品、库、参考仓库、归档、生成 demo 还是实验。
 
 ## Structure
 
-Name the important directories and the boundaries between them.
+列出重要目录，并解释边界。
 
 ## Commands
 
-- `...`: install or sync dependencies
-- `...`: local development
-- `...`: lint, test, typecheck, or build
-- `...`: deploy or preview, if applicable
+- `...`: 安装或同步依赖
+- `...`: 本地开发
+- `...`: lint/test/typecheck/build
+- `...`: 部署或预览，如果适用
 
 ## Environment
 
-List variable names and template files only. Never include values.
+只列变量名和模板文件路径，不包含值。
 
 ## Working Rules
 
-- Check git state before editing.
-- Do not revert unrelated user changes.
-- Keep generated files and migrations synchronized when relevant.
-- Prefer existing patterns over new abstractions.
+- 编辑前检查 git 状态。
+- 不回滚 unrelated user changes。
+- 相关时保持生成文件、schema、迁移同步。
+- 优先复用现有模式，不轻易发明新抽象。
 
 ## Verification
 
-Name the smallest meaningful checks for docs, backend, frontend, database, and deployment changes.
+按 docs、backend、frontend、database、deployment 等变更类型列最小有效检查。
 
 ## Known Hazards
 
-Record footguns, fragile migrations, provider limits, generated code boundaries, and private data rules.
+记录易错 API、脆弱迁移、平台限制、生成代码边界和私有数据规则。
 ```
 
-## Review Rubric
+## 评分 Rubric
 
-Score each file from 0 to 2 for each dimension.
+每项 0-2 分。
 
-| Dimension | 0 | 1 | 2 |
+| 维度 | 0 分 | 1 分 | 2 分 |
 | --- | --- | --- | --- |
-| Scope | No clear project status | Mentions purpose only | Clearly states status and boundaries |
-| Commands | Missing or invented | Some commands, unclear use | Real commands with purpose |
-| Verification | Missing | Generic | Narrow checks by change type |
-| Safety | Missing | Generic secret warning | Concrete rules for secrets, git state, destructive actions |
-| Architecture | Missing | Directory list only | Explains important boundaries |
-| Maintenance | No update rule | Manual notes | Explains when to update instructions |
-| Tool Fit | One tool assumed everywhere | Mentions multiple tools | Splits cross-agent, Claude-specific, and skill content |
+| Scope | 无项目状态 | 只写了大概用途 | 清楚说明状态和边界 |
+| Commands | 缺失或疑似编造 | 有命令但用途不清 | 真实命令且解释用途 |
+| Verification | 缺失 | 泛泛而谈 | 按变更类型给出窄验证 |
+| Safety | 缺失 | 泛泛提醒 secrets | 明确 secrets、git、破坏性操作规则 |
+| Architecture | 缺失 | 只有目录列表 | 解释关键边界和所有权 |
+| Maintenance | 无更新规则 | 有人工备注 | 说明何时更新指令 |
+| Tool Fit | 假设只有一种工具 | 提到多工具 | 清楚区分 AGENTS、CLAUDE、skill |
 
-Interpretation:
+解释：
 
-- 0-5: risky or mostly decorative.
-- 6-9: usable but likely to miss important context.
-- 10-14: strong enough for routine agent work.
+- 0-5：风险较高，基本只是装饰性文档。
+- 6-9：可用，但容易漏上下文。
+- 10-14：足够支撑常规 agent 工作。
 
-## Improvement Loop
+## 反模式
 
-After a real agent session, update the instruction layer when one of these happens:
+- 把所有项目命令集中到全局 `AGENTS.md`。
+- 为归档项目补造测试或部署命令。
+- 在公开指令里写 `.env` 值、token、cookie、私钥或个人路径。
+- 把 Claude-only MCP 工具名写成跨工具要求。
+- 把一次性任务计划写进长期项目指令。
+- 用“运行测试”替代具体可执行命令。
+- README、`AGENTS.md`、`CLAUDE.md` 三份文档复制同一大段内容，最终互相漂移。
 
-- The agent had to rediscover a command from package scripts or README.
-- The agent almost touched secrets, generated files, migrations, or unrelated user changes.
-- The agent used the wrong verification command.
-- The agent misunderstood whether the project was active, archived, or reference-only.
-- A checklist was repeated across multiple projects and should become a template or skill.
+## 持续优化循环
 
-Keep edits short. A good instruction file reduces repeated discovery work without becoming a second README.
+真实 agent 会话结束后，如果出现以下情况，就应该更新指令层：
 
+- 代理必须重新从 package scripts 或 README 找命令。
+- 代理使用了错误验证方式。
+- 代理误判项目是否活跃。
+- 代理差点触碰 secrets、生成文件、迁移或 unrelated user changes。
+- 同一 checklist 在多个项目重复出现，适合模板化或 skill 化。
+
+保持短而准。好的指令文件减少重复发现成本，但不应该变成第二份完整 README。
