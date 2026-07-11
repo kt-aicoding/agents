@@ -7,3 +7,9 @@ node_modules/
 .venv/
 dist/
 build/
+.playwright-mcp/
+
+# Local umbrella workspace. Child projects keep their own Git histories.
+projects/*
+!projects/AGENTS.md
+!projects/README.md

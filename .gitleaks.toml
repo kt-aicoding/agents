@@ -1,0 +1,6 @@
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Independent child repositories are outside this archive's scan boundary"
+paths = ['''^projects/''']

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "workspace_root": "/Users/kevinten/projects",
+  "moved_at": "2026-07-11T14:52:46+08:00",
+  "summary": {
+    "containers": 6,
+    "git_repositories_verified": 34,
+    "verification": "Repository count and combined HEAD, origin, and git status digest matched before and after each move"
+  },
+  "moves": [
+    {
+      "source_path": "Life",
+      "destination_path": "life",
+      "git_repositories": 2,
+      "state_digest": "0231dd8033d118fd42f0f71660eae5d66a45c4d4bf3a0ac42ecbe7c86c77fb5c"
+    },
+    {
+      "source_path": "agents/projects/agent-ai/mcp",
+      "destination_path": "mcp",
+      "git_repositories": 16,
+      "state_digest": "ff36eff78e2b375b0ea0771bfc9aa92a5c533eab29a18e7d0367e0ada689fe74"
+    },
+    {
+      "source_path": "agents/projects/agent-ai/cli",
+      "destination_path": "cli",
+      "git_repositories": 5,
+      "state_digest": "5dcb2f761bbb357c48acc0ca56f3e6182f33268276d07b96ddac0014142660a9"
+    },
+    {
+      "source_path": "agents/projects/agent-ai/skills",
+      "destination_path": "skills",
+      "git_repositories": 6,
+      "state_digest": "7f9d8d168768c83cfadb0e8e2e00860787aaf25c5470e156e1cdceca3ff60012"
+    },
+    {
+      "source_path": "agents/projects/agent-ai/claws",
+      "destination_path": "claws",
+      "git_repositories": 4,
+      "state_digest": "fdf12dc627419b1bdb8464fed701fd91b2cbde0b0b0bce64c0017a0fb3a3bf74"
+    },
+    {
+      "source_path": "agents/projects/websites/kevin",
+      "destination_path": "kevin",
+      "git_repositories": 1,
+      "state_digest": "543973dc97c286d7273d5494059d71ca91783e96f6f001388a7527f2ba2f37ab"
+    }
+  ]
+}
