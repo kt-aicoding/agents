@@ -13,3 +13,4 @@ build/
 projects/*
 !projects/AGENTS.md
 !projects/README.md
+.gstack/
