@@ -78,11 +78,12 @@ sequenceDiagram
 | `docs/migration-guide.md` | 将稳定的 `CLAUDE.md` 内容迁移到 `AGENTS.md` 的指南。 |
 | `docs/patterns/` | 可复用的 `AGENTS.md` 模板。 |
 | `docs/goals/` | 可长期执行、可恢复、可验证的 Codex goal 指令文件。 |
-| `docs/source-workspace-agents-index.md` | 来源工作区的 agents 文件索引和迁移候选。 |
+| `docs/source-workspace-agents-index.md` | 指向工作区自动生成 AGENTS 索引的稳定入口。 |
 | `projects/` | 本地集中管理的 Agent 框架、Agent 平台、RAG 和编排项目；子项目内容不纳入本仓库版本控制。 |
 | `manifests/project-moves-2026-07-11.json` | 项目物理迁移的源路径、目标路径和验证摘要。 |
 | `manifests/category-promotions-2026-07-11.json` | MCP、CLI、Skills、Claws、Kevin 和 Life 根级分类提升记录。 |
 | `manifests/purpose-classification-2026-07-11.json` | Apps、Knowledge、Websites、Mobile、Tooling 等用途分类迁移记录。 |
+| `manifests/knowledge-subcategory-moves-2026-07-13.json` | Knowledge 下社区、资产和个人项目的细分类迁移及迁移后 Git 验证。 |
 
 ## 当前快照
 

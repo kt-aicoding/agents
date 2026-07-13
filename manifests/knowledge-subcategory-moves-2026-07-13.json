@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "workspace_root": "<workspace-root>",
+  "moved_at": "2026-07-13T09:22:51+08:00",
+  "classification_basis": "group knowledge repositories by ownership and content purpose",
+  "summary": {
+    "moves": 3,
+    "verification": "After the same-filesystem moves, each source path was absent, each destination path was present, and HEAD, origin, branch, working-tree status, and stash count were recorded",
+    "secret_handling": "Repositories were renamed atomically; ignored files and stashes moved with .git and sensitive contents were not read"
+  },
+  "moves": [
+    {
+      "source_path": "knowledge/docs",
+      "destination_path": "knowledge/communities/reactivegroup-docs",
+      "verification": {
+        "source_exists_after": false,
+        "destination_exists_after": true,
+        "head": "aac7be7ec9530625bf3e5de4136bbae77f37a363",
+        "branch": "master",
+        "origin": "https://github.com/reactivegroup/docs.git",
+        "working_tree": "clean",
+        "stash_count": 0
+      }
+    },
+    {
+      "source_path": "knowledge/images",
+      "destination_path": "knowledge/assets/kt-aicoding-images",
+      "verification": {
+        "source_exists_after": false,
+        "destination_exists_after": true,
+        "head": "c2f57fb187f3b2b7aafb338475354aa6ed39d030",
+        "branch": "main",
+        "origin": "https://github.com/kt-aicoding/images.git",
+        "working_tree": "clean",
+        "stash_count": 0
+      }
+    },
+    {
+      "source_path": "knowledge/leetcode",
+      "destination_path": "knowledge/personal/leetcode",
+      "verification": {
+        "source_exists_after": false,
+        "destination_exists_after": true,
+        "head": "2ffaa35262893afbc4fc4a60ee7ea16d3189eca1",
+        "branch": "main",
+        "origin": "https://github.com/kevinten10/leetcode.git",
+        "working_tree": "clean",
+        "stash_count": 1
+      }
+    }
+  ]
+}
